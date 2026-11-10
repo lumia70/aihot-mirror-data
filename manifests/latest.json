@@ -1,0 +1,137 @@
+{
+  "updatedAt": "2026-11-10T08:38:26.921Z",
+  "full": {
+    "tag": "snapshot-20261110-1638-daily",
+    "releaseTag": "snapshot-20261110",
+    "bundleUrl": "https://github.com/lumia70/aihot-mirror-data/releases/download/snapshot-20261110/full.tar.gz",
+    "bundleSha256": "c8a2a83026a1b493880a74d0bdded213c6b45817b19ad3a43fac749ec0715bef",
+    "manifest": {
+      "packageVersion": 2,
+      "mode": "full",
+      "snapshotAt": "2026-11-10T08:38:21.832Z",
+      "appVersion": "mirror-hourly-v1",
+      "schemaHead": "0089_publication_time.sql",
+      "windowDays": 180,
+      "dailyReady": false,
+      "counts": {
+        "sources": 19,
+        "articles": 59,
+        "analyses": 59,
+        "grouping_overrides": 0,
+        "stories": 10,
+        "story_aliases": 0,
+        "story_links": 0,
+        "story_digests": 9,
+        "facts": 10,
+        "fact_articles": 10,
+        "story_signals": 10,
+        "story_heat_hourly": 0,
+        "hot_rankings": 5,
+        "publications": 59,
+        "translations": 0,
+        "quote_translations": 0,
+        "reports": 0,
+        "pool_search": 57
+      },
+      "files": [
+        {
+          "path": "tables/sources.jsonl.zst",
+          "sha256": "2de1abb6c778a06d3ff84354a5985d616404fe382f48d183b188485a948a7a1f",
+          "bytes": 961
+        },
+        {
+          "path": "tables/articles.jsonl.zst",
+          "sha256": "1e01a3d5214eed8f5c742e53339edb606773c264f599079d4978189e2351a6ea",
+          "bytes": 26321
+        },
+        {
+          "path": "tables/analyses.jsonl.zst",
+          "sha256": "ee09c925ae220ead173e273f303114e421ec67b22789cc72b0c71f65e367ca6e",
+          "bytes": 12169
+        },
+        {
+          "path": "tables/grouping_overrides.jsonl.zst",
+          "sha256": "6fb8543883dafcc2ed0934866b8b3f775231f5b0933add08bf502e9e84944cbd",
+          "bytes": 9
+        },
+        {
+          "path": "tables/stories.jsonl.zst",
+          "sha256": "d96f4888f9593c20b49ed0af05faaeaa3370833a6aec5241d9334cd12ce4c0fc",
+          "bytes": 4178
+        },
+        {
+          "path": "tables/story_aliases.jsonl.zst",
+          "sha256": "6fb8543883dafcc2ed0934866b8b3f775231f5b0933add08bf502e9e84944cbd",
+          "bytes": 9
+        },
+        {
+          "path": "tables/story_links.jsonl.zst",
+          "sha256": "6fb8543883dafcc2ed0934866b8b3f775231f5b0933add08bf502e9e84944cbd",
+          "bytes": 9
+        },
+        {
+          "path": "tables/story_digests.jsonl.zst",
+          "sha256": "2a7acadac385642e3e60c12aad8494d08257692db045761eb8f803742a16785a",
+          "bytes": 4059
+        },
+        {
+          "path": "tables/facts.jsonl.zst",
+          "sha256": "78fa5767ab8715054176f4b980f326a33340a930bff0ea60b92d9b1b6da7616d",
+          "bytes": 2166
+        },
+        {
+          "path": "tables/fact_articles.jsonl.zst",
+          "sha256": "dc907eca5767246a36cb5f0aa151ae86228c305e0071464e3aa226a34b738323",
+          "bytes": 1781
+        },
+        {
+          "path": "tables/story_signals.jsonl.zst",
+          "sha256": "dabd54061905d373737cd4cd79ca07c09ffd5f0075b29923b8f98996d9dccdec",
+          "bytes": 540
+        },
+        {
+          "path": "tables/story_heat_hourly.jsonl.zst",
+          "sha256": "6fb8543883dafcc2ed0934866b8b3f775231f5b0933add08bf502e9e84944cbd",
+          "bytes": 9
+        },
+        {
+          "path": "tables/hot_rankings.jsonl.zst",
+          "sha256": "6170b99696505f2090aa18680430a6497db53f28a94f411c5633599d2df5cbf5",
+          "bytes": 230
+        },
+        {
+          "path": "tables/publications.jsonl.zst",
+          "sha256": "b98bcec5bf6a91788f990fe3ded8497d08bce70c0208897ca239741ac4289641",
+          "bytes": 28054
+        },
+        {
+          "path": "tables/translations.jsonl.zst",
+          "sha256": "6fb8543883dafcc2ed0934866b8b3f775231f5b0933add08bf502e9e84944cbd",
+          "bytes": 9
+        },
+        {
+          "path": "tables/quote_translations.jsonl.zst",
+          "sha256": "6fb8543883dafcc2ed0934866b8b3f775231f5b0933add08bf502e9e84944cbd",
+          "bytes": 9
+        },
+        {
+          "path": "tables/reports.jsonl.zst",
+          "sha256": "6fb8543883dafcc2ed0934866b8b3f775231f5b0933add08bf502e9e84944cbd",
+          "bytes": 9
+        },
+        {
+          "path": "tables/pool_search.jsonl.zst",
+          "sha256": "6ccf03f762cd385b3e610a7c310becd35da01a62e0b63df747ec84e9c3f8440f",
+          "bytes": 16638
+        }
+      ],
+      "media": {
+        "path": "media.tar.zst.age",
+        "sha256": "e6b9a8ea3a16a336c831291751f8050adef7117640a5122fad715dc065eeb5c3",
+        "bytes": 236,
+        "encrypted": true
+      }
+    }
+  },
+  "hourly": null
+}
